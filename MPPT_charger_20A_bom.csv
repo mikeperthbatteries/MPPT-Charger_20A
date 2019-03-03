@@ -1,4 +1,5 @@
 Component;Description;Part;References;Value;Footprint;Quantity Per PCB;Datasheet;Remarks;PartNumber;Manufacturer;Alternative;Supplier
+BOM
 1;Polarised capacitor;CP_Small;C1 C2;1000u;CP_Radial_D16.0mm_P7.50mm;2;;63V, 2.74A, 16x25;EKYB630ELL102ML25S;United Chemi-Con;;
 2;Unpolarized capacitor;C;C9 C10 C16 C19 C22 C25 C26 C29 C30 C31 C32 C34 C39 C40 C42;100n;C_0603_1608;15;;;GRM188R71H104KA93D;Murata;;
 3;Unpolarized capacitor;C;C35;100p;C_0603_1608;1;;;GRM1885C2A101JA01D;Murata;;
